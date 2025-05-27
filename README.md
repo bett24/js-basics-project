@@ -6,6 +6,7 @@ The webisite has 2 buttons (+/-) and a display button. With the first ones we ca
 Under those ones, there is another button used to reset the counter and start over.
 
 The styling of the page is inspired by the classic Apple Iphone calculator app.
+![counter screenshot](https://github.com/user-attachments/assets/381bfc7e-eb47-4395-bf0f-70cdf93f681c)
 
 Creator: Riccardo Bettin
 
