@@ -7,6 +7,8 @@ Under those ones, there is another button used to reset the counter and start ov
 
 The styling of the page is inspired by the classic Apple Iphone calculator app.
 
+I hope you can enjoy the simple functionalities of my small project :)
+
 
 ![counter screenshot](https://github.com/user-attachments/assets/381bfc7e-eb47-4395-bf0f-70cdf93f681c)
 
@@ -15,6 +17,4 @@ The styling of the page is inspired by the classic Apple Iphone calculator app.
 Creator: Riccardo Bettin
 
 Master Course: Start2Impact Full Stack Developer Master
-
-I hope you can enjoy the simple functionalities of my small project :)
 
